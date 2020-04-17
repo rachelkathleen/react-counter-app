@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`form renders correctly 1`] = `
+<div
+  className="form"
+>
+  <form
+    id="form"
+    onSubmit={[Function]}
+  >
+    <label>
+      <select
+        onChange={[Function]}
+        value=""
+      />
+    </label>
+    <input
+      id="submit"
+      type="submit"
+      value="Submit"
+    />
+  </form>
+</div>
+`;

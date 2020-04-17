@@ -1,0 +1,18 @@
+{
+  "launch": {
+    "tslint.enable": false
+  },
+  "typescript.format.insertSpaceAfterCommaDelimiter": false,
+  "typescript.format.enable": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "typescript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+  "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "typescript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+  "typescript.autoClosingTags": false,
+  "typescript.check.npmIsInstalled": false,
+  "typescript.preferences.renameShorthandProperties": false,
+  "typescript.reportStyleChecksAsWarnings": false,
+  "typescript.tsc.autoDetect": "off",
+  "typescript.validate.enable": false
+}
